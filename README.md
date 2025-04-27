@@ -1,4 +1,7 @@
 <p><img src="ucp.png" alt="The Unresolved Contrast Principle" width="1024px" align="center" /></p>
+<blockquote>
+<p>"There is no light without shadow, and no psychic wholeness without imperfection."<br /><em>-Carl Jung</em></p>
+</blockquote>
 <h1><strong>The Unresolved Contrast Principle (UCP)</strong></h1>
 <h2><strong>Statement</strong></h2>
 <p><strong>ϟ ↝ 𝓔</strong><strong><br /></strong> Wherever contrast cannot fully resolve, emergence must follow.</p>
