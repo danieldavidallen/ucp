@@ -4,7 +4,9 @@
 </blockquote>
 <h1><strong>The Unresolved Contrast Principle (UCP)</strong></h1>
 <h2><strong>Statement</strong></h2>
+<blockquote>
 <p><strong>ϟ ↝ 𝓔</strong><strong><br /></strong> Wherever contrast cannot fully resolve, emergence must follow.</p>
+</blockquote> 
 <h2><strong>Foundational Premise</strong></h2>
 <blockquote>
 <p>Existence demands distinction<br />Distinction demands contrast<br />Contrast demands recursion<br />Recursion demands emergence</p>
