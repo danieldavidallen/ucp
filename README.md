@@ -1,3 +1,6 @@
+<img align="center" width="1024px" src="" alt="Image Placeholder">
+Caption placeholder
+
 <h1><strong>The Unresolved Contrast Principle (UCP)</strong></h1>
 <h2><strong>Statement</strong></h2>
 <p><strong>ϟ ↝ 𝓔</strong><strong><br /></strong> Wherever contrast cannot fully resolve, emergence must follow.</p>
