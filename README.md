@@ -1,5 +1,4 @@
-<img align="center" width="1024px" src="" alt="Image Placeholder">
-Caption placeholder
+<img align="center" width="1024px" src="ucp.png" alt="The Unresolved Contrast Principle">
 
 <h1><strong>The Unresolved Contrast Principle (UCP)</strong></h1>
 <h2><strong>Statement</strong></h2>
