@@ -14,7 +14,7 @@
 <p>Thus, reality is not born from static being, but from tension unresolved&mdash;<br /> and from that tension, structure, time, and complexity unfold.</p>
 <h2><strong>Principle of Operation</strong></h2>
 <p>In every system where incompatible states exert tension, and no perfect reconciliation is possible, the system must enter a state of recursive adjustment.</p>
-<p>Each recursion imprints a memory of its tension, and across these memories, emergence grows.Thus emergence is not an exception, nor a chance artifact, but the inevitable flowering of unresolved contrast.</p>
+<p>Each recursion imprints a memory of its tension, and across these memories, emergence grows. Thus emergence is not an exception, nor a chance artifact, but the inevitable flowering of unresolved contrast.</p>
 <h2><strong>Formal Expression</strong></h2>
 <blockquote>
 <p><strong>ϟ &ne; 0 &rArr; ℛ &rarr; 𝓔</strong><strong><br /></strong> or equivalently:<br /> <strong>𝓔 = f(ϟ)</strong></p>
