@@ -59,7 +59,7 @@
 <h3><strong>Matter-Antimatter Asymmetry</strong></h3>
 <p>Matter-antimatter asymmetry refers to the observed imbalance between matter and antimatter in the universe, despite theories predicting they should have formed in equal amounts. UCP reveals this asymmetry as the result of unresolved contrast at the foundational scale-state level, where slight imbalance in contrast resolution seeded the emergence of material reality.</p>
 <h3>Information Theory</h3>
-<h3><strong>Shannon Entropy</strong></h3>
+<h2><strong>Shannon Entropy</strong></h2>
 <p>Shannon entropy measures the average uncertainty (or information content) in a message source. UCP shows that informational uncertainty arises from unresolved contrast among possible message outcomes, not randomness alone.</p>
 <h3><strong>Landauer&rsquo;s Principle</strong></h3>
 <p>Landauer&rsquo;s principle states that erasing information incurs a minimum thermodynamic cost. UCP clarifies that this cost reflects the energetic consequences of forcibly resolving internal contrast within a system&rsquo;s information structure.</p>
