@@ -4,7 +4,7 @@
 </blockquote>
 <blockquote>
 "Reality is an unfinished project in itself."<br /><em>-Slavoj Žižek</em></p>
-</blockquote>blockquote>
+</blockquote>
 <h1><strong>The Unresolved Contrast Principle (UCP)</strong></h1>
 <h2><strong>Statement</strong></h2>
 <blockquote>
